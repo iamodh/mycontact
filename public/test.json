@@ -1,0 +1,38 @@
+[
+  {
+    "name": "John Doe",
+    "age": 43,
+    "gender": "Male",
+    "occupation": "Wokrer"
+  },
+  {
+    "name": "Mira Jaeger",
+    "age": 18,
+    "gender": "Female",
+    "occupation": "Student"
+  },
+  {
+    "name": "Margaret C. Terjo",
+    "age": 32,
+    "gender": "Female",
+    "occupation": "Teacher"
+  },
+  {
+    "name": "Margaret C. Terjo",
+    "age": 32,
+    "gender": "Female",
+    "occupation": "Teacher"
+  },
+  {
+    "name": "Matthew J. South",
+    "age": 45,
+    "gender": "Male",
+    "occupation": "Lawyer"
+  },
+  {
+    "name": "Ramon H. Reed",
+    "age": 35,
+    "gender": "Male",
+    "occupation": "Dentist"
+  }
+]
